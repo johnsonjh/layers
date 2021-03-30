@@ -1,0 +1,30 @@
+#	START NEW ARIX SCCS HEADER
+#
+#	@(#) README.ses: version 25.1 created on 12/2/91 at 15:59:40
+#
+#	Copyright (c) 1990 by Arix Corporation
+#	All Rights Reserved
+#
+#	@(#)README.ses	25.1	12/2/91 Copyright (c) 1990 by Arix Corporation
+#
+#	END NEW ARIX SCCS HEADER
+#
+==============================================================================
+Thu Dec  4 11:24:55 PST 1986
+
+kelly
+	DESCRIPTION: The following two files appear to be used as download
+	code for ATT terminals. DO NOT remove them.
+
+		usr/src/cmd/layers/layersys/lsys.873
+		usr/src/cmd/layers/set_enc.j
+
+==============================================================================
+Mon Mar 30 13:46:35 PST 1987
+kelly
+	DESCRIPTION: There is no current support plans for the layers/
+	windowing capabilities.
+	TECHNOTE:
+	The layers/windowing capabilities will not be supported in this
+	release.
+==============================================================================
